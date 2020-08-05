@@ -1,11 +1,11 @@
-### Hello, I'm Arpit 👋
+# Hello, I'm Arpit 👋
 
-<!-- ## I'm a Husband, Father, Developer, and Teacher!
-- 🔭 I’m currently working on a [VS Code Course][website]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums -->
+### I ❤️ creating for the web
+- 💻 I’m currently working on [my portfolio][website]!
+- 📖 I’m currently learning Reactjs⚛️
+- 🤝 I’m looking to collaborate with other web lovers!
+- 🎯  2020 Goals: Learn more technologies and give more back to the community
+- 💎 Fun fact: I love rules!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpit&label=Views&color=blue&style=flat&label=Profile+views" alt="arpit" /> </p>
 
@@ -16,7 +16,7 @@
 [![GitHub arpitdalal](https://img.shields.io/github/followers/arpitdalal?label=follow&style=social)][github]&nbsp;&nbsp;&nbsp;
 [![website](https://img.shields.io/badge/Portfolio%20Website-arpitdalal.dev-2648ff?style=flat&logo=google-chrome&logoColor=ffffff)][website]
 
-### Languages and Tools:
+### Languages and Technologies:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -44,7 +44,7 @@
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### Show some ❤️ by starring some of my repositories!
 
 </div>
 
