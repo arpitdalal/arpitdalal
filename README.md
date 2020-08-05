@@ -42,8 +42,14 @@
 
 <a href="https://github.com/arpitdalal">
  <img align="left" alt="arpitdalal's most usable languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitdalal&theme=light&hide_langs_below=1" />
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=arpitdalal&show_icons=true&theme=light&line_height=27" alt="arpitdalal's github stats"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=arpitdalal&show_icons=true&theme=light&line_height=27" alt="arpitdalal's github stats"/>
 </a>
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
 
 [website]: https://arpitdalal.dev
 [twitter]: https://twitter.com/ArpitDalal6
