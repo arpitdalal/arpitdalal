@@ -5,7 +5,7 @@
 - 📖 I’m currently learning Reactjs⚛️
 - 🤝 I’m looking to collaborate with other web lovers!
 - 🎯  2020 Goals: Learn more technologies and give more back to the community
-- 💎 Fun fact: I love rules!
+- 💎 Weird fact: I love rules!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpit&label=Views&color=blue&style=flat&label=Profile+views" alt="arpit" /> </p>
 
