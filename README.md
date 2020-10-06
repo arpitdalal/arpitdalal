@@ -1,9 +1,9 @@
 # Hello, I'm Arpit 👋
 
 ### I ❤️ creating for the web
-- 💻 I’m currently working on [my portfolio][website]!
+- 💻 I’m currently working on [my portfolio][website] (want a [sneak peak][draf]?)
 - 📖 I’m currently learning Reactjs⚛️
-- 🤝 I’m looking to collaborate with other web lovers!
+- 🤝 I’m looking to collaborate with other web enthusiasts!
 - 🎯  2020 Goals: Learn more technologies and give more back to the community
 - 💎 Weird fact: I love rules!
 
@@ -48,6 +48,7 @@
 
 </div>
 
+[draf]: https://arpitdalal.netlify.app
 [website]: https://arpitdalal.dev
 [twitter]: https://twitter.com/ArpitDalal6
 [linkedin]: https://www.linkedin.com/in/arpitdalal/
