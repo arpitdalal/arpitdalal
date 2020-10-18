@@ -1,11 +1,11 @@
 # Hello, I'm Arpit 👋
 
 ### I ❤️ creating for the web
-- 💻 I’m currently working on [my portfolio][website] (want a [sneak peak][draf]?)
-- 📖 I’m currently learning Reactjs⚛️
+- 💻 I’m currently working with businesses to help them create a significant web presence.
+- 📖 I’m currently learning JavaScript technologies.
 - 🤝 I’m looking to collaborate with other web enthusiasts!
-- 🎯  2020 Goals: Learn more technologies and give more back to the community
-- 💎 Weird fact: I love rules!
+- 🎯 2020 Goals: Learn more web technologies and give more back to the community.
+- 💎 A fact: I love rules!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpit&label=Views&color=blue&style=flat&label=Profile+views" alt="arpit" /> </p>
 
@@ -49,7 +49,7 @@
 </div>
 
 [draf]: https://arpitdalal.netlify.app
-[website]: https://arpitdalal.dev
+[website]: https://arpitdalal.dev?utm_source="github"&utm_medium="social-media"
 [twitter]: https://twitter.com/ArpitDalal6
 [linkedin]: https://www.linkedin.com/in/arpitdalal/
 [github]: https://www.github.com/arpitdalal
