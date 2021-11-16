@@ -2,10 +2,9 @@
 
 ### I ❤️ creating magic for the web
 - 💻 I’m currently working with an agency that helps businesses to create a significant web presence.
-- 📖 I’m currently learning Gatsby/Next.js.
+- 📖 I’m currently learning Next.js and Nest.js.
 - 🤝 I’m looking to collaborate with other web enthusiasts!
-- 🎯 2021 Goals: Learn more web technologies and give more back to the community.
-- 💎 An interesting fact: I love rules!
+- 🎯 2022 Goals: Learn more web technologies and give more back to the community.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpit&label=Views&color=blue&style=flat&label=Profile+views" alt="arpit" /> </p>
 
