@@ -1,7 +1,7 @@
 # Hello, I'm Arpit 👋
 
-### I ❤️ creating magic for the web
-- 💻 I’m currently working with an agency that helps businesses to create a significant web presence.
+### I ❤️ creating software!
+- 💻 I’m currently working @Points shipping scalable storefronts.
 - 📖 I’m currently learning Next.js and Nest.js.
 - 🤝 I’m looking to collaborate with other web enthusiasts!
 - 🎯 2022 Goals: Learn more web technologies and give more back to the community.
