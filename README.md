@@ -2,7 +2,7 @@
 
 ### I ❤️ creating software!
 - 💻 I’m currently working @Points shipping scalable storefronts.
-- 📖 I’m currently learning Next.js and Nest.js.
+- 📖 I’m currently learning [remix](https://github.com/remix-run/remix) and loving it so far 💿❤️
 - 🤝 I’m looking to collaborate with other web enthusiasts!
 - 🎯 2022 Goals: Learn more web technologies and give more back to the community.
 
