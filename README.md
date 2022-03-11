@@ -1,7 +1,7 @@
 # Hello, I'm Arpit 👋
 
 ### I ❤️ creating software!
-- 💻 I’m currently working @Points shipping scalable storefronts.
+- 💻 I’m a web dev currently working [@Points](https://points.com/).
 - 📖 I’m currently learning [remix](https://github.com/remix-run/remix) and loving it so far 💿❤️
 - 🤝 I’m looking to collaborate with other web enthusiasts!
 - 🎯 2022 Goals: Learn more web technologies and give more back to the community.
@@ -14,6 +14,10 @@
 [![Linkedin: arpitdalal](https://img.shields.io/badge/-arpitdalal-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arpitdalal/)][linkedin]&nbsp;&nbsp;&nbsp;
 [![GitHub arpitdalal](https://img.shields.io/github/followers/arpitdalal?label=follow&style=social)][github]&nbsp;&nbsp;&nbsp;
 [![website](https://img.shields.io/badge/Portfolio%20Website-arpitdalal.dev-2648ff?style=flat&logo=google-chrome&logoColor=ffffff)][website]
+
+### My weapons of choice:
+
+<img src="https://skillicons.dev/icons?i=html,css,react,ts,remix,nextjs,nodejs,mongodb,postgres,git" />
 
 <br />
 <br />
