@@ -17,7 +17,17 @@
 
 ### My weapons of choice:
 
-<img src="https://skillicons.dev/icons?i=html,css,react,ts,remix,nextjs,nodejs,mongodb,postgres,git" />
+#### Front-end
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,gatsby,bootstrap,materialui,emotion,tailwind" />
+
+#### Back-end
+<img src="https://skillicons.dev/icons?i=php,nodejs,express,nestjs,mysql,mongodb,postgres,supabase,firebase,appwrite" />
+
+#### Full-stack frameworks
+<img src="https://skillicons.dev/icons?i=remix,nextjs,apollo,wordpress" />
+
+#### Other tools
+<img src="https://skillicons.dev/icons?i=git,linux,vscode,bash,docker,electron" />
 
 <br />
 <br />
