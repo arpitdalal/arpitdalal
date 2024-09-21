@@ -29,7 +29,7 @@
 
 <div align="center">
  
-<a href="https://github.com/arpitdalal">
+<a href="https://arpit.im/gh">
  <img src="https://github-readme-stats.vercel.app/api?username=arpitdalal&show_icons=true&theme=dark&line_height=27" alt="arpitdalal's github stats"/>
 </a>
 
@@ -38,7 +38,7 @@
 </div>
 
 [draf]: https://arpitdalal.netlify.app
-[website]: https://arpitdalal.dev?utm_source="github"&utm_medium="social-media"
-[twitter]: https://twitter.com/arpitdalal_dev
-[linkedin]: https://www.linkedin.com/in/arpitdalal/
-[github]: https://www.github.com/arpitdalal
+[website]: https://arpit.im/
+[twitter]: https://arpit.im/x
+[linkedin]: https://arpit.im/in
+[github]: https://arpit.im/gh
